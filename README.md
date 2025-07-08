@@ -33,4 +33,45 @@ The project leverages:
 ---
 
 ## 📂 Folder Structure
+│
+├── data/
+│ └── amazon_prime_titles.csv
+│
+├── notebooks/
+│ └── eda_amazon_prime.ipynb
+│
+├── powerbi/
+│ └── amazon_dashboard.pbix
+│
+├── README.md
+└── requirements.txt
+
+
+---
+
+## 📷 Screenshots
+
+### 🔍 EDA Sample (Python)
+![EDA](./screenshots/eda_summary.png)
+
+### 📊 Power BI Dashboard
+![Dashboard](./screenshots/amazon_dashboard.png)
+
+---
+
+## 🚀 Key Insights
+
+- 📅 Most content is added in recent years, especially post-2017.
+- 🎭 Dramas and Documentaries are the most common genres.
+- 🌍 Majority of content is produced in the US, UK, and India.
+- 🎬 Average duration of movies is around 90 minutes.
+- 👤 Repeated appearance of certain directors and actors.
+
+---
+
+## 📌 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Kunal9988/AmazonPrimeDashboard.git
 
