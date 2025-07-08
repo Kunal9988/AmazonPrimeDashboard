@@ -55,7 +55,7 @@ The project leverages:
 ![EDA](./screenshots/eda_summary.png)
 
 ### 📊 Power BI Dashboard
-![Dashboard](./screenshots/amazon_dashboard.png)
+![Dashboard](./screenshots/DashboardSS.png)
 
 ---
 
